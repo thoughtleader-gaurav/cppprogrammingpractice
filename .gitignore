@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Custom exclusion
+leetcodeproblems/.vs/
+leetcodeproblems/Debug/
+leetcodeproblems/leetcodeproblems/Debug/
+leetcodeproblems/leetcodeproblems/leetcodeproblems.vcxproj.user
